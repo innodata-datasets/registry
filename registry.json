@@ -1,0 +1,14 @@
+[
+  {
+    "name": "agentic-gym",
+    "version": "1.0",
+    "description": "Benchmarking terminal agents",
+    "tasks": [
+      {
+        "name": "unscramble",
+        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+        "path": "unscramble"
+      }
+    ]
+  }
+]
