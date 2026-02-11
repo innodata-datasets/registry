@@ -61,7 +61,7 @@ Overall, this is the receipe:
 
 ```bash
 GITHUB_TOKEN=<your_github_token> \
-harbor run ---registry-url https://raw.githubusercontent.com/innodata-datasets/datasets/refs/heads/master/registry.json \
+harbor run ---registry-url https://raw.githubusercontent.com/innodata-datasets/registry/refs/heads/master/registry.json \
 -d agentic-gym  # or other dataset \
 -a <agent> \
 -m <model>
