@@ -53,3 +53,17 @@ do this:
 ```bash
 GITHUB_TOKEN=<your_github_token> harbor run ...
 ```
+
+## Using this registry with `harbor`
+
+Finally, you need to direct `harbor` to use this dataset registry (instead of the default one). For that use `--registry-url` flag.
+Overall, this is the receipe:
+
+```bash
+GITHUB_TOKEN=<your_github_token> \
+harbor run ---registry-url https://raw.githubusercontent.com/innodata-datasets/datasets/refs/heads/master/registry.json \
+-d agentic-gym  # or other dataset \
+-a <agent> \
+-m <model>
+```
+
