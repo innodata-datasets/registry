@@ -8,6 +8,11 @@
         "name": "unscramble",
         "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
         "path": "unscramble"
+      },
+      {
+        "name": "async-webserver",
+        "git-url": "https://github.com/innodata-datasets/agentic-gym.git",
+        "path": "async-websever"
       }
     ]
   }
