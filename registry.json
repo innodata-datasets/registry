@@ -1,7 +1,7 @@
 [
   {
     "name": "agentic-gym",
-    "version": "1.21",
+    "version": "1.22",
     "description": "Benchmarking terminal agents",
     "tasks": [
       {
@@ -12,7 +12,7 @@
       {
         "name": "async-webserver",
         "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
-        "path": "async-websever"
+        "path": "async-webserver"
       }
     ]
   }
