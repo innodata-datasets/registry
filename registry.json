@@ -18,6 +18,11 @@
         "name": "derivative",
         "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
         "path": "derivative"
+      },
+      {
+        "name": "sliding-median",
+        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+        "path": "sliding-median"
       }
     ]
   }
