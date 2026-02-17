@@ -1,7 +1,7 @@
 [
   {
     "name": "agentic-gym",
-    "version": "1.23",
+    "version": "1.24",
     "description": "Benchmarking terminal agents",
     "tasks": [
       {
