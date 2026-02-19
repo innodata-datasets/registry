@@ -1,7 +1,7 @@
 [
   {
     "name": "agentic-gym",
-    "version": "1.24",
+    "version": "1.25",
     "description": "Benchmarking terminal agents",
     "tasks": [
       {
@@ -23,6 +23,11 @@
         "name": "sliding-median",
         "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
         "path": "sliding-median"
+      },
+      {
+        "name": "django-upgrade",
+        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+        "path": "django-upgrade"
       }
     ]
   }
