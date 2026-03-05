@@ -1,34 +1,177 @@
-[
-  {
-    "name": "agentic-gym",
-    "version": "1.27",
-    "description": "Benchmarking terminal agents",
-    "tasks": [
-      {
-        "name": "unscramble",
-        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
-        "path": "unscramble"
-      },
-      {
-        "name": "async-webserver",
-        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
-        "path": "async-webserver"
-      },
-      {
-        "name": "derivative",
-        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
-        "path": "derivative"
-      },
-      {
-        "name": "sliding-median",
-        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
-        "path": "sliding-median"
-      },
-      {
-        "name": "django-upgrade",
-        "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
-        "path": "django-upgrade"
-      }
-    ]
-  }
-]
+{
+  "name": "agentic-gym",
+  "version": "2.0",
+  "description": "Benchmarking terminal agents",
+  "tasks": [
+    {
+      "name": "java-utf8-state-machine",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "java-utf8-state-machine"
+    },
+    {
+      "name": "js-css-selector",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "js-css-selector"
+    },
+    {
+      "name": "zig-lzw-decompress",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "zig-lzw-decompress"
+    },
+    {
+      "name": "unscramble",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "unscramble"
+    },
+    {
+      "name": "java-glob-matcher",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "java-glob-matcher"
+    },
+    {
+      "name": "java-bencode-torrent",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "java-bencode-torrent"
+    },
+    {
+      "name": "c-ieee754-printf",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "c-ieee754-printf"
+    },
+    {
+      "name": "sliding-median",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "sliding-median"
+    },
+    {
+      "name": "fortran-cubic-spline",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "fortran-cubic-spline"
+    },
+    {
+      "name": "java-calculator",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "java-calculator"
+    },
+    {
+      "name": "py-pipeline-debugger",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "py-pipeline-debugger"
+    },
+    {
+      "name": "go-dns-parser",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "go-dns-parser"
+    },
+    {
+      "name": "go-iso8601-duration",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "go-iso8601-duration"
+    },
+    {
+      "name": "fortran-sparse-eigenvalue",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "fortran-sparse-eigenvalue"
+    },
+    {
+      "name": "derivative",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "derivative"
+    },
+    {
+      "name": "zig-png-decoder",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "zig-png-decoder"
+    },
+    {
+      "name": "zig-aoc",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "zig-aoc"
+    },
+    {
+      "name": "go-dns-zone",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "go-dns-zone"
+    },
+    {
+      "name": "c-tar-extract",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "c-tar-extract"
+    },
+    {
+      "name": "async-webserver",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "async-webserver"
+    },
+    {
+      "name": "go-smtp-session",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "go-smtp-session"
+    },
+    {
+      "name": "go-semver",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "go-semver"
+    },
+    {
+      "name": "java-utf8-codec",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "java-utf8-codec"
+    },
+    {
+      "name": "c-printf-subset",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "c-printf-subset"
+    },
+    {
+      "name": "js-promise-scheduler",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "js-promise-scheduler"
+    },
+    {
+      "name": "zig-deflate-decompress",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "zig-deflate-decompress"
+    },
+    {
+      "name": "js-ical-recurrence",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "js-ical-recurrence"
+    },
+    {
+      "name": "django-upgrade",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "django-upgrade"
+    },
+    {
+      "name": "fortran-runge-kutta-orbit",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "fortran-runge-kutta-orbit"
+    },
+    {
+      "name": "go-cron",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "go-cron"
+    },
+    {
+      "name": "fix-the-parser",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "fix-the-parser"
+    },
+    {
+      "name": "js-json-parser",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "js-json-parser"
+    },
+    {
+      "name": "fortran-matrix",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "fortran-matrix"
+    },
+    {
+      "name": "ascii-diamond",
+      "git_url": "https://github.com/innodata-datasets/agentic-gym.git",
+      "path": "ascii-diamond"
+    }
+  ]
+}
